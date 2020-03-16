@@ -23,3 +23,5 @@ $ pip2 install mechanize
 Channel : https://www.youtube.com/c/triosihn
 
 website : https://mrghost-crypto.blogspot.com
+
+fans page : https://www.facebook.com/MrGhostCrypto
